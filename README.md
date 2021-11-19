@@ -4,7 +4,7 @@
 
 Simple validation with React hooks
 
-<img src="https://i.ibb.co/fdySfZs/auth.png" alt="Validate_form"/>
+<img src="https://i.ibb.co/kGLcmGD/validation-form.png" alt="Validate_form"/>
 
 
 
